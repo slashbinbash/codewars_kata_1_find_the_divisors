@@ -9,9 +9,8 @@ namespace kata
     class Program
     {
         static void Main(string[] args)
-        {
-            //if (new int[] { 3, 5 } == Kata.Divisors(15))
-                Console.WriteLine(Kata.Divisors(15)[1]);
+        {            
+            Console.WriteLine(Kata.Divisors(15)[1]);
             Console.ReadKey();
         }
     }
