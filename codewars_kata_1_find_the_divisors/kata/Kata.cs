@@ -28,5 +28,4 @@ namespace kata
                 return divisors.ToArray();
         }
     }
-
 }

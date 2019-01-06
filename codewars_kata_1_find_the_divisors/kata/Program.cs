@@ -10,8 +10,7 @@ namespace kata
     {
         static void Main(string[] args)
         {            
-            Console.WriteLine(Kata.Divisors(15)[1]);
-            Console.ReadKey();
+
         }
     }
 }
